@@ -13,7 +13,7 @@
 ## Sobre o Projeto
 Este repositório contém uma implementação de um sistema baseado em POO utilizando Python. O objetivo é demonstrar conceitos de programação orientada a objetos como herança, polimorfismo, e encapsulamento, através de um exemplo prático.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 
 - Python 3.9
 - Bibliotecas: `numpy`, `pandas` (adapte conforme necessário)  
 
